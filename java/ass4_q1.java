@@ -1,3 +1,6 @@
+/*Create a program to convert student marks from String format to Integer and calculate
+total marks.  */
+
 import java.util.Scanner;
 
 public class ass4_q1 {
