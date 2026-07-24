@@ -1,3 +1,8 @@
+/* Q.2)Develop an Employee Payroll System that accepts employee IDs, basic salary, and
+bonus amounts from the user. Convert the entered values into wrapper objects and perform
+validation operations to ensure valid salary values before calculating the net salary. */
+
+
 import java.util.Scanner;
 //Employee payroll system
 public class ass4_q2 {
